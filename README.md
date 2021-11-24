@@ -1,5 +1,5 @@
 # Generic Idle Game
-Jogo estilo IDLE Clicker usando a biblioteca PyQt5 para a UI e Shelve para efetuar o salvamento do progresso.
+Jogo estilo IDLE Clicker usando a biblioteca PyQt5 para a UI e Shelve para efetuar o salvamento do progresso, programado usando Programação Orientada a Objetos (POO).
 
 O jogo possui 5 telas, a tela Home é onde o dinheiro base (Gold) do jogo é criado, clicando o botão Mine para ganhar manualmente e depois comprando recursos
 
